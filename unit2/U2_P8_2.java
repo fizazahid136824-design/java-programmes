@@ -1,13 +1,13 @@
 // write a java program to use final variable.
-class DiyaPolicy
+class FizaPolicy
 {
     final void verifyIdentify()
     {
-        System.out.println("Student Diya Identity Verified via Biometrics.");
+        System.out.println("Student Fiza Identity Verified via Biometrics.");
     }
 }
 
-class AdvancedStudent extends DiyaPolicy
+class AdvancedStudent extends FizaPolicy
 {
      
     // void verifyIdentify(){}
