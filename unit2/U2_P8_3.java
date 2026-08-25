@@ -1,18 +1,18 @@
- final class DiyaSecureData
+ final class FizaSecureData
  {
     void ShowData()
     {
-        System.out.println("Secure Confidential Recordd for Diya");
+        System.out.println("Secure Confidential Recordd for Fiza");
     }
  }
 
-// class Diya extends DiyaSecureData{}
+// class Fiza extends FizaSecureData{}
  
  class U2_P8_3
  {
     public static void main(String[] args)
      {
-      DiyaSecureData d = new DiyaSecureData();
+      FizaSecureData d = new FizaSecureData();
 
       d.ShowData();  
     }
