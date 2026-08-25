@@ -5,12 +5,12 @@
 
     public static void main(String[] args)
      {
-     final int Diya_roll_no=126;
+     final int Fiza_roll_no=149;
      final double max_marks = 100.0;
 
-     System.out.println("Diya's roll no:" + Diya_roll_no);
+     System.out.println("Fiza's roll no:" + Fiza_roll_no);
 
-     //Diya_roll_no=126;   
+     //Fiza_roll_no=149;   
 
      }
  }
